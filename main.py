@@ -25,4 +25,3 @@ ch = df[(df.Plec == 'M')]
 dz = df[(df.Plec == 'K')]
 print(dz['Liczba'].sum())
 print(ch['Liczba'].sum())
-
